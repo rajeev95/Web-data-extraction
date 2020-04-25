@@ -1,0 +1,616 @@
+<table class="credits company_credits">
+                <colgroup>
+                    <col class="credit_title">
+                    <col class="credit_year">
+                                        <col class="credit_userscore">
+                </colgroup>
+                <thead>
+                    <tr>
+                        <th class="credit_title">Title:</th>
+                        <th class="credit_year">Year:</th>
+                                                <th class="credit_userscore">User score:</th>
+                    </tr>
+                </thead>
+                <tbody>
+                                    <tr>
+                        <td class="title brief_metascore">
+                             
+
+        
+<span class="metascore_w small movie positive">88</span>
+
+                            <a href="/movie/black-panther">Black Panther</a>
+                        </td>
+                        <td class="year">
+                                                            Feb 16, 2018
+                                                    </td>
+                                                <td class="score">
+                            
+
+
+        <span class="data textscore textscore_favorable">6.4</span>
+
+                        </td>
+                    </tr>
+                                    <tr class="alt">
+                        <td class="title brief_metascore">
+                             
+
+        
+<span class="metascore_w small movie positive">79</span>
+
+                            <a href="/movie/iron-man">Iron Man</a>
+                        </td>
+                        <td class="year">
+                                                            May 2, 2008
+                                                    </td>
+                                                <td class="score">
+                            
+
+
+        <span class="data textscore textscore_outstanding">8.5</span>
+
+                        </td>
+                    </tr>
+                                    <tr>
+                        <td class="title brief_metascore">
+                             
+
+        
+<span class="metascore_w small movie positive">78</span>
+
+                            <a href="/movie/avengers-endgame">Avengers: Endgame</a>
+                        </td>
+                        <td class="year">
+                                                            Apr 26, 2019
+                                                    </td>
+                                                <td class="score">
+                            
+
+
+        <span class="data textscore textscore_outstanding">7.8</span>
+
+                        </td>
+                    </tr>
+                                    <tr class="alt">
+                        <td class="title brief_metascore">
+                             
+
+        
+<span class="metascore_w small movie positive">76</span>
+
+                            <a href="/movie/guardians-of-the-galaxy">Guardians of the Galaxy</a>
+                        </td>
+                        <td class="year">
+                                                            Aug 1, 2014
+                                                    </td>
+                                                <td class="score">
+                            
+
+
+        <span class="data textscore textscore_outstanding">8.5</span>
+
+                        </td>
+                    </tr>
+                                    <tr>
+                        <td class="title brief_metascore">
+                             
+
+        
+<span class="metascore_w small movie positive">75</span>
+
+                            <a href="/movie/captain-america-civil-war">Captain America: Civil War</a>
+                        </td>
+                        <td class="year">
+                                                            May 6, 2016
+                                                    </td>
+                                                <td class="score">
+                            
+
+
+        <span class="data textscore textscore_outstanding">8.3</span>
+
+                        </td>
+                    </tr>
+                                    <tr class="alt">
+                        <td class="title brief_metascore">
+                             
+
+        
+<span class="metascore_w small movie positive">74</span>
+
+                            <a href="/movie/big-hero-6">Big Hero 6</a>
+                        </td>
+                        <td class="year">
+                                                            Nov 7, 2014
+                                                    </td>
+                                                <td class="score">
+                            
+
+
+        <span class="data textscore textscore_outstanding">8.0</span>
+
+                        </td>
+                    </tr>
+                                    <tr>
+                        <td class="title brief_metascore">
+                             
+
+        
+<span class="metascore_w small movie positive">74</span>
+
+                            <a href="/movie/thor-ragnarok">Thor: Ragnarok</a>
+                        </td>
+                        <td class="year">
+                                                            Nov 3, 2017
+                                                    </td>
+                                                <td class="score">
+                            
+
+
+        <span class="data textscore textscore_outstanding">7.8</span>
+
+                        </td>
+                    </tr>
+                                    <tr class="alt">
+                        <td class="title brief_metascore">
+                             
+
+        
+<span class="metascore_w small movie positive">73</span>
+
+                            <a href="/movie/spider-man-homecoming">Spider-Man: Homecoming</a>
+                        </td>
+                        <td class="year">
+                                                            Jul 7, 2017
+                                                    </td>
+                                                <td class="score">
+                            
+
+
+        <span class="data textscore textscore_outstanding">7.6</span>
+
+                        </td>
+                    </tr>
+                                    <tr>
+                        <td class="title brief_metascore">
+                             
+
+        
+<span class="metascore_w small movie positive">72</span>
+
+                            <a href="/movie/doctor-strange">Doctor Strange</a>
+                        </td>
+                        <td class="year">
+                                                            Nov 4, 2016
+                                                    </td>
+                                                <td class="score">
+                            
+
+
+        <span class="data textscore textscore_outstanding">8.2</span>
+
+                        </td>
+                    </tr>
+                                    <tr class="alt">
+                        <td class="title brief_metascore">
+                             
+
+        
+<span class="metascore_w small movie positive">70</span>
+
+                            <a href="/movie/ant-man-and-the-wasp">Ant-Man and the Wasp</a>
+                        </td>
+                        <td class="year">
+                                                            Jul 6, 2018
+                                                    </td>
+                                                <td class="score">
+                            
+
+
+        <span class="data textscore textscore_outstanding">7.1</span>
+
+                        </td>
+                    </tr>
+                                    <tr>
+                        <td class="title brief_metascore">
+                             
+
+        
+<span class="metascore_w small movie positive">70</span>
+
+                            <a href="/movie/captain-america-the-winter-soldier">Captain America: The Winter Soldier</a>
+                        </td>
+                        <td class="year">
+                                                            Apr 4, 2014
+                                                    </td>
+                                                <td class="score">
+                            
+
+
+        <span class="data textscore textscore_outstanding">8.5</span>
+
+                        </td>
+                    </tr>
+                                    <tr class="alt">
+                        <td class="title brief_metascore">
+                             
+
+        
+<span class="metascore_w small movie positive">69</span>
+
+                            <a href="/movie/the-avengers-2012">The Avengers</a>
+                        </td>
+                        <td class="year">
+                                                            May 4, 2012
+                                                    </td>
+                                                <td class="score">
+                            
+
+
+        <span class="data textscore textscore_outstanding">8.0</span>
+
+                        </td>
+                    </tr>
+                                    <tr>
+                        <td class="title brief_metascore">
+                             
+
+        
+<span class="metascore_w small movie positive">69</span>
+
+                            <a href="/movie/spider-man-far-from-home">Spider-Man: Far from Home</a>
+                        </td>
+                        <td class="year">
+                                                            Jul 2, 2019
+                                                    </td>
+                                                <td class="score">
+                            
+
+
+        <span class="data textscore textscore_outstanding">7.6</span>
+
+                        </td>
+                    </tr>
+                                    <tr class="alt">
+                        <td class="title brief_metascore">
+                             
+
+        
+<span class="metascore_w small movie positive">68</span>
+
+                            <a href="/movie/avengers-infinity-war">Avengers: Infinity War</a>
+                        </td>
+                        <td class="year">
+                                                            Apr 27, 2018
+                                                    </td>
+                                                <td class="score">
+                            
+
+
+        <span class="data textscore textscore_outstanding">8.7</span>
+
+                        </td>
+                    </tr>
+                                    <tr>
+                        <td class="title brief_metascore">
+                             
+
+        
+<span class="metascore_w small movie positive">67</span>
+
+                            <a href="/movie/guardians-of-the-galaxy-vol-2">Guardians of the Galaxy Vol. 2</a>
+                        </td>
+                        <td class="year">
+                                                            May 5, 2017
+                                                    </td>
+                                                <td class="score">
+                            
+
+
+        <span class="data textscore textscore_outstanding">7.7</span>
+
+                        </td>
+                    </tr>
+                                    <tr class="alt">
+                        <td class="title brief_metascore">
+                             
+
+        
+<span class="metascore_w small movie positive">66</span>
+
+                            <a href="/movie/avengers-age-of-ultron">Avengers: Age of Ultron</a>
+                        </td>
+                        <td class="year">
+                                                            May 1, 2015
+                                                    </td>
+                                                <td class="score">
+                            
+
+
+        <span class="data textscore textscore_favorable">7.0</span>
+
+                        </td>
+                    </tr>
+                                    <tr>
+                        <td class="title brief_metascore">
+                             
+
+        
+<span class="metascore_w small movie positive">66</span>
+
+                            <a href="/movie/captain-america-the-first-avenger">Captain America: The First Avenger</a>
+                        </td>
+                        <td class="year">
+                                                            Jul 22, 2011
+                                                    </td>
+                                                <td class="score">
+                            
+
+
+        <span class="data textscore textscore_outstanding">7.3</span>
+
+                        </td>
+                    </tr>
+                                    <tr class="alt">
+                        <td class="title brief_metascore">
+                             
+
+        
+<span class="metascore_w small movie positive">66</span>
+
+                            <a href="/movie/the-amazing-spider-man">The Amazing Spider-Man</a>
+                        </td>
+                        <td class="year">
+                                                            Jul 3, 2012
+                                                    </td>
+                                                <td class="score">
+                            
+
+
+        <span class="data textscore textscore_favorable">7.0</span>
+
+                        </td>
+                    </tr>
+                                    <tr>
+                        <td class="title brief_metascore">
+                             
+
+        
+<span class="metascore_w small movie positive">65</span>
+
+                            <a href="/movie/deadpool">Deadpool</a>
+                        </td>
+                        <td class="year">
+                                                            Feb 12, 2016
+                                                    </td>
+                                                <td class="score">
+                            
+
+
+        <span class="data textscore textscore_outstanding">8.1</span>
+
+                        </td>
+                    </tr>
+                                    <tr class="alt">
+                        <td class="title brief_metascore">
+                             
+
+        
+<span class="metascore_w small movie positive">64</span>
+
+                            <a href="/movie/captain-marvel">Captain Marvel</a>
+                        </td>
+                        <td class="year">
+                                                            Mar 8, 2019
+                                                    </td>
+                                                <td class="score">
+                            
+
+
+        <span class="data textscore textscore_mixed">3.5</span>
+
+                        </td>
+                    </tr>
+                                    <tr>
+                        <td class="title brief_metascore">
+                             
+
+        
+<span class="metascore_w small movie positive">64</span>
+
+                            <a href="/movie/ant-man">Ant-Man</a>
+                        </td>
+                        <td class="year">
+                                                            Jul 17, 2015
+                                                    </td>
+                                                <td class="score">
+                            
+
+
+        <span class="data textscore textscore_outstanding">8.0</span>
+
+                        </td>
+                    </tr>
+                                    <tr class="alt">
+                        <td class="title brief_metascore">
+                             
+
+        
+<span class="metascore_w small movie positive">62</span>
+
+                            <a href="/movie/iron-man-3">Iron Man 3</a>
+                        </td>
+                        <td class="year">
+                                                            May 3, 2013
+                                                    </td>
+                                                <td class="score">
+                            
+
+
+        <span class="data textscore textscore_favorable">6.5</span>
+
+                        </td>
+                    </tr>
+                                    <tr>
+                        <td class="title brief_metascore">
+                             
+
+        
+<span class="metascore_w small movie positive">61</span>
+
+                            <a href="/movie/the-incredible-hulk">The Incredible Hulk</a>
+                        </td>
+                        <td class="year">
+                                                            Jun 13, 2008
+                                                    </td>
+                                                <td class="score">
+                            
+
+
+        <span class="data textscore textscore_outstanding">7.2</span>
+
+                        </td>
+                    </tr>
+                                    <tr class="alt">
+                        <td class="title brief_metascore">
+                             
+
+        
+<span class="metascore_w small movie mixed">59</span>
+
+                            <a href="/movie/spider-man-3">Spider-Man 3</a>
+                        </td>
+                        <td class="year">
+                                                            May 4, 2007
+                                                    </td>
+                                                <td class="score">
+                            
+
+
+        <span class="data textscore textscore_favorable">6.8</span>
+
+                        </td>
+                    </tr>
+                                    <tr>
+                        <td class="title brief_metascore">
+                             
+
+        
+<span class="metascore_w small movie mixed">57</span>
+
+                            <a href="/movie/thor">Thor</a>
+                        </td>
+                        <td class="year">
+                                                            May 6, 2011
+                                                    </td>
+                                                <td class="score">
+                            
+
+
+        <span class="data textscore textscore_favorable">7.0</span>
+
+                        </td>
+                    </tr>
+                                    <tr class="alt">
+                        <td class="title brief_metascore">
+                             
+
+        
+<span class="metascore_w small movie mixed">57</span>
+
+                            <a href="/movie/iron-man-2">Iron Man 2</a>
+                        </td>
+                        <td class="year">
+                                                            May 7, 2010
+                                                    </td>
+                                                <td class="score">
+                            
+
+
+        <span class="data textscore textscore_favorable">6.5</span>
+
+                        </td>
+                    </tr>
+                                    <tr>
+                        <td class="title brief_metascore">
+                             
+
+        
+<span class="metascore_w small movie mixed">54</span>
+
+                            <a href="/movie/thor-the-dark-world">Thor: The Dark World</a>
+                        </td>
+                        <td class="year">
+                                                            Nov 8, 2013
+                                                    </td>
+                                                <td class="score">
+                            
+
+
+        <span class="data textscore textscore_outstanding">7.1</span>
+
+                        </td>
+                    </tr>
+                                    <tr class="alt">
+                        <td class="title brief_metascore">
+                             
+
+        
+<span class="metascore_w small movie mixed">53</span>
+
+                            <a href="/movie/the-amazing-spider-man-2">The Amazing Spider-Man 2</a>
+                        </td>
+                        <td class="year">
+                                                            May 2, 2014
+                                                    </td>
+                                                <td class="score">
+                            
+
+
+        <span class="data textscore textscore_favorable">6.4</span>
+
+                        </td>
+                    </tr>
+                                    <tr>
+                        <td class="title brief_metascore">
+                             
+
+        
+<span class="metascore_w small movie mixed">45</span>
+
+                            <a href="/movie/4-rise-of-the-silver-surfer">Fantastic Four: Rise of the Silver Surfer</a>
+                        </td>
+                        <td class="year">
+                                                            Jun 15, 2007
+                                                    </td>
+                                                <td class="score">
+                            
+
+
+        <span class="data textscore textscore_favorable">6.6</span>
+
+                        </td>
+                    </tr>
+                                    <tr class="alt">
+                        <td class="title brief_metascore">
+                             
+
+        
+<span class="metascore_w small movie negative">30</span>
+
+                            <a href="/movie/punisher-war-zone">Punisher: War Zone</a>
+                        </td>
+                        <td class="year">
+                                                            Dec 5, 2008
+                                                    </td>
+                                                <td class="score">
+                            
+
+
+        <span class="data textscore textscore_mixed">6.0</span>
+
+                        </td>
+                    </tr>
+                                </tbody>
+            </table>
